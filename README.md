@@ -96,6 +96,8 @@ This project is open-source. Feel free to modify and enhance it based on your re
 
 **4) Real-Time Data Updates:** Managing real-time data refresh without impacting performance required efficient scheduling and indexing strategies.
 
+**5) Machine Learning Implementation:** Achieving high model accuracy and selecting the best algorithms required multiple iterations, hyperparameter tuning, and validation to ensure reliable passenger growth predictions.
+
 ## **Conclusion**✅🔚
 The Aviation Analytics Dashboard serves as a comprehensive solution for visualizing and predicting aviation industry trends. By integrating Machine Learning with Power BI, the dashboard empowers stakeholders to make data-driven decisions, identify performance gaps, and optimize operational efficiency. The project highlights the importance of data accuracy, user-friendly design, and scalability in modern business intelligence solutions.
 
@@ -106,7 +108,7 @@ Future improvements can focus on incorporating advanced analytics and automation
 
 Developed the Aviation Prediction Machine Learning Model, contributing to model training and evaluation.
 
-**[]()**
+**[Purval Prashant Kamble](https://github.com/Purval698)**
 
 Performed the *Python connect to SQL* for the *project* , and Collaborated on the *Machine Learning Model*, focusing on hyperparameter tuning and performance improvement.
 
